@@ -1,0 +1,10 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/infi_roar0"
+        android:duration="500" />
+    <item android:drawable="@drawable/infi_roar1"
+        android:duration="5800" />
+    <item android:drawable="@drawable/infi_roar0"
+        android:duration="200" />
+</animation-list>
