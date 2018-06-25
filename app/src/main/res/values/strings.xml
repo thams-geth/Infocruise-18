@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">Infocruise\'18</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="username">567ba33c-29c4-4382-afca-006cc4b5a45c</string>
+    <string name="password">mpjund5fKH0i</string>
+    <string name="workspace">4e0b5697-8a51-4250-a68e-b25f68594391</string>
+    <string name="title_activity_details">Detail</string>
+
+    <string name="CODEZERS">
+	Programming is not just about what you know its about what you can do with what you know. Code It is filled with competitive programming challenges made to unleash your coding skills. Code and debug your path to a proper result and ascend to the next level. The power of coding is infinite!</string>
+    <string name="CODEZERS_guid">
+	1.Its an individual event. \n\n
+	2.It will based on hacker rank or hacker earth platform. The results will be based on logic of code and execution of programs.</string>
+    <string name="WEBWAR">
+	Websites should look good from the inside and out.Paul Cookson The participants are expected to build fully functional websites on a given theme. It is an event for the young developers to expose their development skills.</string>
+    <string name="WEBWAR_guid">
+	    A team can consist a maximum of two participants.\n
+        Individual Participants are also allowed.\n
+        Seperate Regsitrations has to be done by both the participants of team.\n\n
+
+        Round 1\n\n
+
+
+        It tests the basic website development skills of the participants.\n
+        It consists of MCQ in the area of Web Designing, and acts as an eliminating round. Out of all the teams, only top 10 teams move forward to the next round.Questions will be in the area of HTML, SQL.\n\n
+
+        Round 2\n\n
+
+
+        In this round, a theme will be given to the participants. They are expected to build a fully functional website in the stipulated time.
+        They are judged on the basis of functionalities they have provided,code security,tools used, design parameters
+        It is preferable to bring their own laptops/our system will be provided only with certain tools.
+\n\n
+        Event Coordinators
+        Sivapradeep(9585159759)
+
+    </string>
+    <string name="PAPERENZA">
+	Paper presentation is about how you put your topic and present your ideas , the ideas that invokes the best results will be appreciated and awarded.</string>
+    <string name="PAPERENZA_guid">
+	1.Participants must register online in the website.Seperate Registrations has to be done by all the Team members. \n\n
+    2.After Registration,abstract must be send to Infocruise Mailid  (Click Here)with Participants Name and Participant Id.\n\n
+    3.Include Your Paper name as Subject of the Mail.\n\n
+    4.Mention your team members Name,participant Id,Department,College Name in the Mail.\n\n
+    Papers must be submitted in IEEE format. Plagiarism is strictly prohibited.\n\n
+    Abstract in IEEE format should be mailed to infocruise2k18@gmail.com on or before 08/03/2018 and the shortlisted candidates will be intimated through mail or phone on or before 09/03/2018.\n\nMention the name of the Authors, Year of study, Department, Mail ID, and Contact Number through mail
+    Each team will be given 05 minutes to present their paper .
+        \nDecision of judges will be final.
+    </string>
+    <string name="PAPERENZA_topics">
+
+    TOPICS\n\n
+        Papers on the following topics will be encouraged\n\n
+            - Networking\n
+            - Machine Learning\n
+            - Internet of Things\n
+            - Security\n
+            - Cloud Computing\n
+            - Articial Intelligence\n
+            - Image Processing\n
+            - Nano technology\n
+            - And Other Recent Technology Papers Related to Computer\n
+</string>
+    <string name="project">\n
+project presentation is the platform to expose your innovative ideas and have a chance to Change the world of creativity into reality
+Each team should consist of a maximum of 2 members per team.
+Presentation duration should not exceed 7 mins.
+
+    </string>
+    <string name="project_guid">
+        1.Separate Registration has to be done by all the team members\n\n
+        2.Registration will be open till March 09\n\n
+        3.After Registering online,a brief note about the project should be sent to infocruise2k18@gmail.com\n\n
+        on or before 09/03/2018.\n\n
+        4.Include project topic as subject of the email.\n\n
+        5.Include Participants Name and participant id in the email\n\n
+        Shortlisted projects will be intimated through mail or phone on or before 8/03/2018\n\n
+</string>
+    <string name="GOGOOGLE">
+ "Unless your name is google, stop acting like you know everything" and here is a place to evaluate how effectively you use google.</string>
+    <string name="GOGOOGLE_guid">
+	    1.It is an Individual event .\n\n
+        2.The Participants will be given certain Tasks.\n\n
+        3.Internet Facility will be provided.\n\n
+        4.Participants can use Google for finding answers\n\n
+        5.Registration is Mandatory\n\n
+        6.Registration will be open till March 09\n</string>
+    <string name="TECHNOFREAKS">
+	 Far from classroom rote, this quiz is all about the world of Science and Technology. Get ready for a roller coaster ride into the intense world of techno quizzing.</string>
+    <string name="TECHNOFREAKS_guid">
+	        1.Based on Innovative ideas/concepts\n\n
+            2.It is an Onstage Event\n\n
+            3.The team can consist of maximum 4 members.\n\n
+            4.Seperate online Registration has to be done by all the team members\n\n
+            5.Registration will be open till March 09\n\n
+            6.Decision of judges will be final\n</string>
+    <string name="ZAM">
+	 Zust-A-Minute (or ZAM) is an all round-fun event that is all about the control of the mind over the mouth.
+        \nCan you make it through sixty seconds of non-stop talking without hesitation, repetition, or deviation
+        Or will the sheer pressure make you crumble and have your competitors pounce on you in an instant.
+    </string>
+    <string name="ZAM_guid">
+	    1.Team size - minimum 5 to max 7 members\n\n
+        2.Each participant will be given a topic and a preparation time of 30 seconds.\n\n
+        3.A minute will be given to speak over the topic without pause, repetition and hesitation.\n\n
+    </string>
+    <string name="MRMSINFOCRUISE">
+	 Here we have a fun filled event for you to showcase your individuality and personality. get through the various tasks to win the MR/MS INFOCRUISE 2k18 title.
+	 </string>
+    <string name="MSINFOCRUISE_guid">
+	    1.Participants will be given several tasks to perform\n\n
+        2.The one who stays till the end wins the title.\n
+	</string>
+    <string name="SEARCHOSEEK">
+	This simple format and time-tested team activity still makes one of the most popular team building events today.
+        Teams armed with clues, questions and recording devices set off against the clock to be the first to complete challenges.\n
+        We add the magic, creativity and theming to make your treasure hunt truly special and unique.You are constrained by
+        imagination alone.
+	</string>
+    <string name="SEARCHOSEEK_guide">
+		    1.Team event\n\n
+            2.A team may contain of maximum 4 members\n\n
+            3.Registration is Mandatory.\n\n
+            4.Registration will be open until March 09\n\n
+            5.Seperate Registration has to be done by all the team members\n\n
+            6.Details about the event will be given on the spot.\n\n
+		</string>
+
+    <string name="AGAMEHASNONAME">
+	 "Winning is only half of it, while having fun is the other half", so here is an event to check your spontaneity and enthusiasm.
+
+    </string>
+    <string name="AGAMEHASNONAME_guid">
+	    1.A team must contain 4 members.\n\n
+        2.The instructions will be given on the spot.\n</string>
+
+    <string name="waytokec">"Life is a journey, and the path is not always clear. We know you will be nervous about finding way around in a new city. It’s over. No worries! Here are the possible routes to reach our KEC for exuberant INFOCRUISE 2k18.
+
+ FROM PERUNDURAI BUS STAND:
+
+ BY BUS:
+
+ College chariots (bus) with their drivers will be waiting at the bus stand to fly you to the college. It will be available from 7.30am to 8.20am and 4.15pm to 7.15pm free of cost. It will be available frequently. This is the most recommended mode to reach KEC.
+
+ BY MINI-BUS:
+
+ You can board Mini-buses available at Perundurai bus stand. Travel time is around 10-15 minutes. Bus fare would be around Rs.10.
+
+ BY AUTO:
+
+ You can also hire an auto at bus stand that rushes you to KEC with in 10 minutes with cost of around Rs.70. Your destination must be Vinayagar temple or KVB,Kec nagar.
+
+
+
+"</string>
+    <string name="acco_text">
+        "Hello !
+
+Are you looking out to set camp so as to prepare yourself to get engaged in the Battle with full throttle? Yes. We have made arrangements and set an environment that would give you “AT HOME” experience. Also, to make sure that you are on the right and the most feasible path, we’ve got everything in-house right from events schedule.
+
+Once you have reached our college, it is our responsibility to keep your experience hassle free, ensure safe transportation and provide a comfortable stay during Infocruise 2K18. We promise to keep you mentally boosted and focussed during your stay for Infocruise’18 and to make sure you return back home with a lot of splendid memories.
+
+Anytime, we would be delighted to assist you and answer all your queries regarding Infocruise 2K18.
+
+
+
+NOTE
+
+--&gt; Hold your id cards inside the KEC campus. It is mandatory.
+
+ --&gt;  For queries related to hostel accomodation.\n
+        For Boys : \n
+        S.Surendhara - 9095907247\n
+        S.Sudhakar - 9600221023\n
+
+        For Girls: \n
+        S.Vinothini - 9500875601
+
+        "</string>
+    <string name="register_url">http://infocruise.kongu.edu/lite/register/login.php</string>
+</resources>

@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tts.infocruise18.MainActivityApp">
+    <item
+        android:id="@+id/action_signout"
+        android:orderInCategory="100"
+        android:title="Sign Out"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_developer"
+        android:orderInCategory="100"
+        android:title="Developer"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="Share"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_rateus"
+        android:orderInCategory="100"
+        android:title="Rate us"
+        app:showAsAction="never" />
+
+
+
+</menu>
