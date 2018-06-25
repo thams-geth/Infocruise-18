@@ -1,4 +1,6 @@
 # Infocruise-18
 
 # Warning
-The Gradle file has been edited for security purpose. You need to include your own project's gradle Fields in "google services.json" file. Without that the app wont run.
+This contain only source code. You need to create new project with this(##com.tts.infocruise18 ) package name. And need to add you "google services.json" file from firebase. 
+
+Thank you.
